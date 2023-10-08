@@ -6,7 +6,7 @@ This project was Create using Reactjs , Html css and javascript
 
 In the project directory, you can run:
 
-## How to start this project
+## How to Run this project
 
 Firstly you have to download the zip folder and then you have to extract and react must be install in your PC
 After that install Node modules else you can visit to master branch to download the build 
@@ -23,5 +23,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-# Project Link (Yeh it's Deploy :))
+## Project Link (Yeh it's Deploy :))
 The link of the website is https://auguskart.netlify.app/
